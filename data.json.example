@@ -1,0 +1,25 @@
+{
+    "company_name": "",
+    "company_address_1": "",
+    "company_address_2": "",
+    "invoice_date": "",
+    "invoice_number": "",
+    "customer_name": "",
+    "customer_address_1": "",
+    "customer_address_2": "",
+    "items": [
+        {
+            "description": "",
+            "qty": "",
+            "price": "",
+            "subtotal": ""
+        },
+        {
+            "description": "",
+            "qty": "",
+            "price": "",
+            "subtotal": ""
+        }
+    ],
+    "total": ""
+}
